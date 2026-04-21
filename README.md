@@ -20,6 +20,11 @@ Projects and internal tools in development for the NobilisMed clinic in Warsaw.
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaknow01&repo=listener-mvp&theme=dark" alt="Auto Scribe" width="100%" />
       </a>
     </td>
+      <td width="50%">
+        <a href="https://github.com/jaknow01/page-crawler">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaknow01&repo=page-crawler&theme=dark" alt="Page Crawler" width="100%" />
+        </a>
+      </td>
     <td width="50%">
       </td>
   </tr>
